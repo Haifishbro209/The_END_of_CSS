@@ -11,7 +11,7 @@ To use Break_CSS in your project, just add the following lines inside the `<head
 
 ```html
 <!-- Load Break_CSS stylesheet -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Haifishbro209/Break_CSS@latest/futuristic_template.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Haifishbro209/The_END_of_CSS@latest/futuristic_template.css">
 
 <!-- Load required fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
